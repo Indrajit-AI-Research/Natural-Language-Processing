@@ -19,12 +19,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Natural Language Processing
+title:                 Indrajit Singh
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  An AI learning site for free.
+  AI Reseracher and Software Engineer
 
 # A shorter description for the sidebar.
 tagline:               >
