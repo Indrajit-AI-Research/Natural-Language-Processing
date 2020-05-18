@@ -78,7 +78,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          <a href="https://www.freepik.com/free-photos-vectors/abstract"></a>
+accent_image:          href="https://www.freepik.com/free-photos-vectors/background"
 accent_color:          rgb(79,177,286)
 
 # This is used for the `theme-color` meta tag,
