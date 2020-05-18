@@ -40,16 +40,18 @@ keywords:              [NLP,Natural Language Processing, Artificial Intelligence
 logo:                  /images/logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:                Indrajit Singh
+author:               Indrajit Singh
 name:                <Indrajit> <Singh>
 email:               <indrajitisngh37@gmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+twitter:             Indrajitsingh3
 
 # Add links to the sidebar.
 menu:
   - title:             About
     url:               https://natural-language-processing.ml/about/
+  - title:             Blog Page
+    url:               https://natural-language-processing.ml/
   - title:             GitHub
     url:               https://github.com/IsinghGitHub
   - title:             LinkedIn
@@ -78,7 +80,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          <a href="https://www.freepik.com/free-photos-vectors/background" ></a>
+accent_image:          <img src="https://www.freepik.com/free-photos-vectors/background" >
 accent_color:          rgb(79,177,286)
 
 # This is used for the `theme-color` meta tag,
