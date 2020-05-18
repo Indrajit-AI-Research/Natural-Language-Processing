@@ -6,6 +6,3 @@ description: A wonderful site
 twitter_username: Indrajitsingh3
 github_username:  jekyll
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-dinky
