@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-
-
 # **My Story**
 
 Hello Everyone! My name is **Indrajit Singh** and I am a **Senior Software Engineer** and **AI Researcher**. I love to explore new technologies, learn things and help others learn.
