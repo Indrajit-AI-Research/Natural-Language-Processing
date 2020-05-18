@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-#  ![logo](/images/logo.jpg)
+<> #  ![logo](/images/logo.jpg)
 
 # **My Story**
 
