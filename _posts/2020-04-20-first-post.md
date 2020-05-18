@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great First Post
+title: Let's learn Natural Language Processing
 ---
 
 This is it!
