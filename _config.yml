@@ -48,12 +48,12 @@ email:               <indrajitisngh37@gmail.com>
 
 # Add links to the sidebar.
 menu:
-  - title:             LinkedIn
-    url:               https://www.linkedin.com/in/indrajitsinghds/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
+  - title:             About
+    url:               https://natural-language-processing.ml/about/
   - title:             GitHub
     url:               https://github.com/IsinghGitHub
+  - title:             LinkedIn
+    url:               https://www.linkedin.com/in/indrajitsinghds/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -176,7 +176,7 @@ hydejack:
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
-  no_theme_color:      false
+  no_theme_color:      true
 
   # Set to `true` when building with the `--lsi` option
   # This will increase site build speed!
